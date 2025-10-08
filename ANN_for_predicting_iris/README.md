@@ -32,4 +32,4 @@ Python, PyTorch, Scikit-learn
 | 0 | 0 | Setosa |
 
 📂 **Notebook**  
-See [`iris_ann_pytorch.ipynb`](./iris_ann_pytorch.ipynb)
+See [`Building_ANN.ipynb`](./Building_ANN.ipynb)
