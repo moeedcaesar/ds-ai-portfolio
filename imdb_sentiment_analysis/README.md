@@ -56,7 +56,7 @@ model_nb.predict(count_vector)
 ```
 # Output: ['positive']
 
-📈 Results
+## 📈 Results
 
 The model effectively classifies movie reviews as positive or negative.
 
