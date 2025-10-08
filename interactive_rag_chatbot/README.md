@@ -51,3 +51,16 @@ This project is an **interactive AI-powered chatbot** that answers history-relat
 ```bash
 git clone <repo_url>
 cd ai_history_chatbot
+```
+
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+
+3. Run the app:
+```
+streamlit run app.py
+```
+
+4. Upload a history-related query and interact with the chatbot. Type Exit to reset the conversation.
