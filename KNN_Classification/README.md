@@ -26,4 +26,4 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 | F1-Score    | 0.95             | 0.98                |
 
 📂 **Notebook**  
-See [`knn_breast_cancer.ipynb`](./KNN_classification.ipynb)
+See [`KNN_classification.ipynb`](./KNN_classification.ipynb)
