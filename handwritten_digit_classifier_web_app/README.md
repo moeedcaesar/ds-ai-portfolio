@@ -87,3 +87,16 @@ The dataset is loaded using `torchvision.datasets.MNIST` and normalized to impro
 ```bash
 git clone <repo_url>
 cd mnist_cnn_app
+```
+
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+
+3. Run the Streamlit app:
+```
+streamlit run app.py
+```
+
+4. Upload an image of a handwritten digit and see the prediction.
