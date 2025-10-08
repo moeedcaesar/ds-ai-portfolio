@@ -71,8 +71,8 @@ cd imdb_sentiment_analysis
 ```
 
 2. Install dependencies:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 3. Run the Jupyter Notebook or Python script to train the model and make predictions.
