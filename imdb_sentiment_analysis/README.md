@@ -53,4 +53,26 @@ thought wonderful way spend time hot summer weekend sitting air conditioned thea
 clean_text = "This movie is my favourite movie"
 count_vector = model.transform(pd.Series(clean_text))
 model_nb.predict(count_vector)
+```
 # Output: ['positive']
+
+📈 Results
+
+The model effectively classifies movie reviews as positive or negative.
+
+Works well for short or long reviews after preprocessing.
+
+⚡ How to Run
+
+1. Clone the repository:
+```
+git clone <repo_url>
+cd imdb_sentiment_analysis
+```
+
+2. Install dependencies:
+'''
+pip install -r requirements.txt
+'''
+
+3. Run the Jupyter Notebook or Python script to train the model and make predictions.
