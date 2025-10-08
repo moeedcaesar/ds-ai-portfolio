@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science/ AI Portfolio
 
 This repository contains selected data science and machine learning projects completed by me during my coursework and self-learning journey.
 
