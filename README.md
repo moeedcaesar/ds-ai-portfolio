@@ -1,5 +1,3 @@
-# ds-ai-portfolio
-This repository showcases my projects in data science and AI, including data analysis, visualization, cleaning, and the development of end-to-end models and applications.
 # Data Science Portfolio
 
 This repository contains selected data science and machine learning projects completed by me during my coursework and self-learning journey.
