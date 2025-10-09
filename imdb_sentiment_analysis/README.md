@@ -54,7 +54,7 @@ clean_text = "This movie is my favourite movie"
 count_vector = model.transform(pd.Series(clean_text))
 model_nb.predict(count_vector)
 ```
-# Output: ['positive']
+### Output: ['positive']
 
 ## 📈 Results
 
