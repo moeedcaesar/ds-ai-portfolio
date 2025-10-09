@@ -11,22 +11,25 @@ These projects represent my learning journey, hands-on experimentation, and prob
 |-----------|----------|--------------|--------|
 | **Data Science** | [**House Price Prediction**](./House_Price_Prediction/) | Linear regression model predicting housing prices. | Python, Pandas, Scikit-learn |
 | **Machine Learning** | [**Customer Segmentation**](./Customer_Segmentation/) | K-Means clustering to identify customer groups. | Python, Scikit-learn, Matplotlib |
-| **AI / Chatbots** | *(Coming soon)* | NLP-based conversational chatbot. | Python, OpenAI API, LangChain |
-| **Automation** | *(Coming soon)* | Automating repetitive data tasks. | Python, Pandas, Selenium |
+| **Machine Learning** | [**Iris Flower Classification**](./Iris_Flower_Classification/) | Random Forest classifier predicting iris flower species based on petal and sepal measurements. | Python, Scikit-learn |
+| **Natural Language Processing (NLP)** | [**IMDB Sentiment Analysis**](./IMDB_Sentiment_Analysis/) | Sentiment classification using Naive Bayes and Bag-of-Words on IMDB movie reviews. | Python, NLTK, Scikit-learn |
+| **Artificial Intelligence / RAG** | [**AI History Chatbot**](./AI_History_Chatbot/) | Streamlit chatbot answering history questions using RAG (Retrieval-Augmented Generation) and PDF context. | Python, Streamlit, LangChain, Ollama |
+| **Automation** | *(Coming soon)* | Automating repetitive data-related workflows and processes. | Python, Pandas, Selenium |
 
 ---
 
 ## 🧰 Tools & Technologies
 
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
-`Jupyter Notebook` • `Git & GitHub` • `OpenAI API` • `LangChain`
+`NLTK` • `LangChain` • `Ollama` • `Chroma` • `Streamlit`  
+`Jupyter Notebook` • `Git & GitHub` • `OpenAI API`  
 
 ---
 
 ## 🧠 About Me
 
 I’m **Moeed Qaisar**, a data and AI enthusiast passionate about turning data into meaningful insights and intelligent solutions.  
-Currently exploring the intersection of **Machine Learning**, **Data Science**, and **AI applications**.
+Currently exploring the intersection of **Machine Learning**, **Data Science**, and **AI applications**, while building real-world projects to strengthen my portfolio.
 
 ---
 
