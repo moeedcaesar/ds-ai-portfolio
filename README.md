@@ -13,7 +13,7 @@ Each project in this repository highlights my ability to analyze, design, and im
 | **Machine Learning** | [**KNN_Classification**](./KNN_Classification/) | K-Nearest Neighbors algorithm for supervised classification tasks. | Python, Scikit-learn, NumPy |
 | **Machine Learning** | [**RandomForestClassifier**](./RandomForestClassifier/) | Random Forest classifier predicting iris flower species. | Python, Scikit-learn |
 | **Machine Learning** | [**K-Clustering_segregating_banking_data**](./K-Clustering_segregating_banking_data/) | K-Means clustering to segment banking customers into groups. | Python, Pandas, Scikit-learn, Matplotlib |
-| **Deep Learning** | [**ANN_for_predicting_iris**](./ANN_for_predicting_iris/) | Artificial Neural Network predicting iris flower types using Keras/TensorFlow. | Python, TensorFlow, Keras |
+| **Deep Learning** | [**ANN_for_predicting_iris**](./ANN_for_predicting_iris/) | Artificial Neural Network predicting iris flower types using PyTorch. | Python, TensorFlow, Keras |
 | **Deep Learning** | [**CNN_for_classifying_images**](./CNN_for_classifying_images/) | Convolutional Neural Network for image classification. | Python, TensorFlow, Keras |
 | **Forecasting / Time Series** | [**ARIMA_&_SARIMA_Forecasting**](./ARIMA_&_SARIMA_Forecasting/) | ARIMA and SARIMA models used for time series forecasting. | Python, Statsmodels, Pandas, Matplotlib |
 | **Natural Language Processing (NLP)** | [**imdb_sentiment_analysis**](./imdb_sentiment_analysis/) | Sentiment analysis using Naive Bayes and Bag-of-Words on IMDB movie reviews. | Python, NLTK, Scikit-learn |
