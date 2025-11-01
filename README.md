@@ -20,6 +20,7 @@ Each project in this repository highlights my ability to analyze, design, and im
 | **AI / RAG Chatbot** | [**interactive_rag_chatbot**](./interactive_rag_chatbot/) | Streamlit-based RAG (Retrieval-Augmented Generation) chatbot answering historical questions with contextual PDFs. | Python, Streamlit, LangChain, Ollama |
 | **AI Applications** | [**crop_recommendation_web_app**](./crop_recommendation_web_app/) | Web app recommending suitable crops based on soil and climate data. | Python, Streamlit, Scikit-learn |
 | **AI Applications** | [**handwritten_digit_classifier_web_app**](./handwritten_digit_classifier_web_app/) | Digit recognition web app using a CNN model trained on MNIST dataset. | Python, Streamlit, TensorFlow |
+| **Machine Learning** | [**iris_flower_classification**](./iris_flower_classification/) | Classifies Iris Flowers into 3 classes and compares the results of 3 models. | Python, Scikit-learn, Pandas |
 
 ---
 
